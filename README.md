@@ -1,2 +1,2 @@
-# spring-boot-mybatis
-SpringBoot集成MyBatis和MySQL
+# spring-boot-druid
+SpringBoot集成druid数据源
